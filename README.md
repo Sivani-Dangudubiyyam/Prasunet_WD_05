@@ -18,10 +18,12 @@ A simple web application that fetches weather data from the OpenWeatherMap API b
 
 
 ## Project Structure
+```bash
 weather-app/
 ├── WD5.html
 ├── style5.css
 └── script5.js
+```
 
 WD5.html:
 This file contains the structure of the web page.
