@@ -18,6 +18,7 @@ A simple web application that fetches weather data from the OpenWeatherMap API b
 
 ## ScreenShots
 ![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_05/blob/main/Preview1.png)
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_05/blob/main/Preview2.png)
 
 ## Project Structure
 ```bash
