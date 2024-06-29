@@ -16,6 +16,8 @@ A simple web application that fetches weather data from the OpenWeatherMap API b
 -Enter the desired location in the input field and click "Get Weather".
 -The current weather data for the specified location will be displayed.
 
+## ScreenShots
+![App Screenshot](https://github.com/Sivani-Dangudubiyyam/Prasunet_WD_05/blob/main/Preview1.png)
 
 ## Project Structure
 ```bash
